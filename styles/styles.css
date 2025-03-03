@@ -258,6 +258,14 @@ main > .section:first-of-type {
   font-weight: bold;
 }
 
+.small .carousel .carousel-slide {
+  min-height: 200px;
+}
+
+.small .carousel-slide-content {
+  display: none;
+}
+
 .footer .section {
   background: #636363;
   padding: 20px;
