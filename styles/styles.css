@@ -254,6 +254,15 @@ main > .section:first-of-type {
   color: #fff;
 }
 
+.footer .section a:link {
+  color: #FFF;
+  text-decoration: none;
+}
+
+.footer .section a:hover {
+  color: #feb914;
+}
+
 @media (width >= 900px) {
   main > .section > div {
     padding: 0 32px;
