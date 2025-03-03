@@ -267,6 +267,15 @@ main > .section:first-of-type {
   color: #feb914 !important;
 }
 
+.last-footer-wrapper {
+  background-color: #434343;
+  font-size: 14px;
+  margin-left: -20px;
+  margin-right: -20px;
+  margin-bottom: -20px;
+  padding: 20px;
+}
+
 @media (width >= 900px) {
   main > .section > div {
     padding: 0 32px;
