@@ -253,6 +253,10 @@ main > .section:first-of-type {
   color: #fff;
 }
 
+.footer .section ul {
+  list-style-type: none;
+}
+
 .footer .section a:any-link {
   color: #FFF !important;
   text-decoration: none;
