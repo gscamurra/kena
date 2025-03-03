@@ -254,8 +254,8 @@ main > .section:first-of-type {
   color: #fff;
 }
 
-.footer .section a:link {
-  color: #FFF;
+.footer .section a:any-link {
+  color: #FFF !important;
   text-decoration: none;
 }
 
