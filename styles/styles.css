@@ -259,7 +259,7 @@ main > .section:first-of-type {
 }
 
 .small .carousel-slide {
-  min-height: 200px;
+  min-height: 200px !important;
 }
 
 .small .carousel-slide-content {
