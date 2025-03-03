@@ -253,13 +253,13 @@ main > .section:first-of-type {
   color: #fff;
 }
 
-.footer .section a:link {
+.footer .section a:any-link {
   color: #FFF !important;
   text-decoration: none;
 }
 
 .footer .section a:hover {
-  color: #feb914;
+  color: #feb914 !important;
 }
 
 @media (width >= 900px) {
