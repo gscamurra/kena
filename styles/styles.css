@@ -255,6 +255,7 @@ main > .section:first-of-type {
 
 .footer .section ul {
   list-style-type: none;
+  padding-inline-start: 0;
 }
 
 .footer .section a:any-link {
