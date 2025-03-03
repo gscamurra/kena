@@ -53,12 +53,13 @@
 
 .carousel .carousel-slide .carousel-slide-content {
   z-index: 1;
-  margin: 68px;
+  margin: 0;
   padding: 16px;
   color: white;
   background-color: #feac1f;
   position: relative;
   width: var(--slide-content-width, auto);
+  height: 100%;
 }
 
 .carousel .carousel-slide-indicators {
