@@ -248,8 +248,14 @@ main > .section:first-of-type {
 }
 
 .button-container a.button {
-  background-color: #1f5f9a;
+  background-color: #ffaf00;
   border-radius: 10px;
+}
+
+.button-container a.button:hover {
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+  color: #ffffff;
+  background-color: #1f5f9a;
 }
 
 .carousel h4 {
