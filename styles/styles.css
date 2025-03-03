@@ -266,6 +266,10 @@ main > .section:first-of-type {
   display: none;
 }
 
+.columns-wrapper {
+  padding: 0;
+}
+
 .footer .section {
   background: #636363;
   padding: 20px;
