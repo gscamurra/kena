@@ -252,6 +252,12 @@ main > .section:first-of-type {
   border-radius: 10px;
 }
 
+.carousel h4 {
+  font-size: 40px;
+  color: #2D2D2D;
+  font-weight: bold;
+}
+
 .footer .section {
   background: #636363;
   padding: 20px;
