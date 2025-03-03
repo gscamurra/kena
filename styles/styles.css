@@ -247,6 +247,11 @@ main > .section:first-of-type {
   margin-top: 0;
 }
 
+.button-container a.button {
+  background-color: #1f5f9a;
+  border-radius: 10px;
+}
+
 .footer .section {
   background: #636363;
   padding: 20px;
