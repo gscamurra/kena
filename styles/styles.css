@@ -326,6 +326,10 @@ main > .section:first-of-type {
   padding-bottom: 5px;
  }
 
+ .accordion.block {
+  margin-top: 40px;
+ }
+
  .simple-page .info ul li {
   list-style-image: url(https://www.kenamobile.it/wp-content/uploads/check_2.png);
  }
