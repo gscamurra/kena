@@ -320,6 +320,12 @@ main > .section:first-of-type {
   list-style-image: url(https://www.kenamobile.it/wp-content/uploads/check_2.png);
  }
 
+ .info-promo {
+  text-align: center;
+    border-bottom: 1px solid #f8af01;
+    padding-bottom: 12px;
+}
+
  .choose-kena {
   text-align: center;
   border-bottom: 4px solid #1f5f9a;
