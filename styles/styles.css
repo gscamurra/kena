@@ -330,6 +330,10 @@ main > .section:first-of-type {
   margin-top: 40px;
  }
 
+ .accordion-item {
+  border-radius: 5px;
+ }
+
  .accordion-item-label p {
     color: #434343;
     font-weight: bold;
