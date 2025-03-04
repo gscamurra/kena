@@ -326,6 +326,10 @@ main > .section:first-of-type {
     padding-bottom: 12px;
 }
 
+.image.center.block {
+  text-align: center;
+}
+
  .choose-kena {
   text-align: center;
   border-bottom: 4px solid #1f5f9a;
