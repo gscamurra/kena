@@ -310,6 +310,12 @@ main > .section:first-of-type {
   color: #12588a !important;
  }
 
+ .simple-page h4 {
+  margin-top: 40px;
+  font-size: 36px;
+  color: #434343;
+ }
+
  .choose-kena {
   text-align: center;
   border-bottom: 4px solid #1f5f9a;
