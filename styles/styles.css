@@ -316,6 +316,10 @@ main > .section:first-of-type {
   color: #434343;
  }
 
+ .simple-page ul li {
+  list-style-image: url(https://www.kenamobile.it/wp-content/uploads/check_2.png);
+ }
+
  .choose-kena {
   text-align: center;
   border-bottom: 4px solid #1f5f9a;
