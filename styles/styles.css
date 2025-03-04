@@ -312,6 +312,8 @@ main > .section:first-of-type {
 
  .choose-kena {
   text-align: center;
+  border-bottom: 4px solid #1f5f9a;
+  padding-bottom: 15px;
  }
 
  .simple-page h3 {
