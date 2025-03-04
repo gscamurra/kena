@@ -334,7 +334,11 @@ main > .section:first-of-type {
     color: #434343;
     font-weight: bold;
     font-size: 15px;
+ }
 
+ .accordion-item-body p {
+  font-size: 15px;
+  color: #434343;
  }
 
  .simple-page .info ul li {
