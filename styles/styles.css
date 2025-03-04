@@ -330,6 +330,13 @@ main > .section:first-of-type {
   margin-top: 40px;
  }
 
+ .accordion-item-label p {
+    color: #434343;
+    font-weight: bold;
+    font-size: 15px;
+
+ }
+
  .simple-page .info ul li {
   list-style-image: url(https://www.kenamobile.it/wp-content/uploads/check_2.png);
  }
