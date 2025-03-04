@@ -250,7 +250,7 @@ main > .section:first-of-type {
 .button-container a.button {
   background-color: #ffaf00;
   border-radius: 8px;
-  width: 222px;
+  min-width: 222px;
   text-transform: uppercase;
 }
 
