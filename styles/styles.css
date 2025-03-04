@@ -316,7 +316,7 @@ main > .section:first-of-type {
   color: #434343;
  }
 
- .simple-page ul li {
+ .simple-page .info ul li {
   list-style-image: url(https://www.kenamobile.it/wp-content/uploads/check_2.png);
  }
 
