@@ -254,6 +254,10 @@ main > .section:first-of-type {
   text-transform: uppercase;
 }
 
+.carousel-slide-content .button-container a.button {
+  background-color: #002e4e !important;
+}
+
 .button-container a.button:hover {
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
   color: #ffffff;
@@ -361,10 +365,7 @@ main > .section:first-of-type {
 }
 
 .image.center.block {
-  text-align: center;
-
-
-  
+  text-align: center; 
 }
 
  .choose-kena {
