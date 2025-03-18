@@ -378,7 +378,7 @@ main > .section:first-of-type {
   color: #434343;
  }
 
- .blue-block {
+ .blue.block {
   text-align: center;
   color: #FFF;
   background-color: #022e4d;
